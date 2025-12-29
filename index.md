@@ -59,16 +59,17 @@ If you choose to sync with Apple Health:
 
 ## Data Export
 
-You can export all your data as a CSV file from within the app's settings. This allows you to backup your data or use it in other applications.
+Data export functionality is coming soon in a future update. For now, all data remains stored locally on your device.
 
 ## Data Deletion
 
 To delete all your data:
 
-1. Use the "Reset Challenge" feature in the app settings, OR
-2. Delete the app from your device
+1. Delete the app from your device
 
 When you delete the app, all locally stored data is permanently removed.
+
+**Note:** Challenge reset functionality is coming soon, which will allow you to reset your challenge without deleting the app.
 
 ## Children's Privacy
 
@@ -82,7 +83,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** support@everbranchmedia.com
+**Email:** bryan@everbranchmedia.com
 
 **Developer:** Everbranch Media
 
